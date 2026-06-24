@@ -116,4 +116,4 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-Built by **Kruti Kotadia** — [LinkedIn](#) | [Portfolio](#)
+Built by **Kruti Kotadia** — [https://www.linkedin.com/in/kruti-kotadia/](#) 
