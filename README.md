@@ -8,7 +8,7 @@ A small tool that turns a typed dashboard request into a working preview — plu
 
 ## 📸 Demo
 
-![App demo](screenshots/demo.png)
+![App demo](demo.png)
 
 *(Screenshot coming soon — see [Setup](#-setup--run-locally) below to run it yourself.)*
 
